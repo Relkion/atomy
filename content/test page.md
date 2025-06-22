@@ -1,1 +1,1 @@
-[[content/index|index]]
+[[test page 2]]
